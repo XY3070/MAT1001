@@ -7,3 +7,4 @@ This course is delivered by CUHK(SZ), as the school package course for year-1 un
 
 ---  
 
+I typed all these notes on Obsidian, a platform that supports the markdown format. If you are familiar with markdown, I believe you know how to read and interpret these files. You can also use Obsidian or other tools to transfer those .md files into .tex or .pdf files. I guess that will aid your reading. 
